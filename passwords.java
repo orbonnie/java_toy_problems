@@ -36,12 +36,5 @@ public class passwords {
 		System.out.println("r3: " + r3);
 		System.out.println("r4: " + r4);
 		System.out.println("r5: " + r5);
-
-		// System.out.println("a is: " + Character.isLetter('a'));
-		// System.out.println("1 is: " + Character.isDigit('f'));
-		// System.out.println("@ is: " + Character.isLetter('$'));
-		// System.out.println("a is: " + Character.isLetter('a'));
-		// System.out.println("1 is: " + Character.isDigit('f'));
-		// System.out.println("@ is: " + Character.isLetter('$'));
 	}
 }
